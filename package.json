@@ -1,0 +1,15 @@
+{
+  "name": "lovetanktracker_appjs",
+  "version": "1.0.0",
+  "description": "A simple, visual way to measure and reflect on your relationship's emotional strength through daily actions based on the five love languages.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "vite",
+    "build": "vite build",
+    "preview": "vite preview"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
